@@ -17,7 +17,7 @@ and [Writing a simple service and client](https://docs.ros.org/en/rolling/Tutori
 contain some examples of rclcpp APIs in use.
 
 ## API Documentation
-1. [rclcpp](https://shivampr21.github.io/rclcpp/rclcpp/doc_output/html/index.html)
-2. [rclcpp_actions](https://shivampr21.github.io/rclcpp/rclcpp_actions/doc_output/html/index.html)
-3. [rclcpp_components](https://shivampr21.github.io/rclcpp/rclcpp_components/doc_output/html/index.html)
-4. [rclcpp_lifecycle](https://shivampr21.github.io/rclcpp/rclcpp_lifecycle/doc_output/html/index.html)
+1. [rclcpp](./rclcpp/doc_output/html/index.html)
+2. [rclcpp_actions](./rclcpp_action/doc_output/html/index.html)
+3. [rclcpp_components](./rclcpp_components/doc_output/html/index.html)
+4. [rclcpp_lifecycle](./rclcpp_lifecycle/doc_output/html/index.html)
