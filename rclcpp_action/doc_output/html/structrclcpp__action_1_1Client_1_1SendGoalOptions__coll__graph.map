@@ -1,0 +1,4 @@
+<map id="rclcpp_action::Client&lt; ActionT &gt;::SendGoalOptions" name="rclcpp_action::Client&lt; ActionT &gt;::SendGoalOptions">
+<area shape="rect" id="node1" title="Options for sending a goal." alt="" coords="24,109,245,151"/>
+<area shape="rect" id="node2" href="$classrclcpp__action_1_1Client_1_1GoalResponseCallback.html" title="Compatibility wrapper for goal_response_callback." alt="" coords="5,5,264,47"/>
+</map>
